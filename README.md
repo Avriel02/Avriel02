@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Avriel! 🚀<br>I’m a Full Stack Junior Developer with a passion for crafting <br>awesome digital solutions and solving real-world challenges <br>through technology. Let’s make something amazing together!<br><br>🌟 I’m currently working on<br>Working at a travel agency as a website developer, building an <br>interactive platform to make trip planning seamless and enjoyable <br>for everyone!<br><br>⚡ Fun fact<br>I thrive on turning ideas into reality and believe that even the smallest <br>details can make the biggest impact. Let’s connect and innovate together!<br><br>
+Hi there, I’m Avriel! 🚀<br>I’m a Junior Web Developer & Mobile Developer with a passion for crafting <br>awesome digital solutions and solving real-world challenges <br>through technology. Let’s make something amazing together!<br><br>🌟 I’m currently working on<br>Working at a travel agency as a website developer, building an <br>interactive platform to make trip planning seamless and enjoyable <br>for everyone!<br><br>⚡ Fun fact<br>I thrive on turning ideas into reality and believe that even the smallest <br>details can make the biggest impact. Let’s connect and innovate together!<br><br>
 
 
 ## 🌐 Socials:
